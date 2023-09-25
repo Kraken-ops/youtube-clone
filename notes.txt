@@ -1,0 +1,33 @@
+CSS Box Model
+- how much space an element takes up
+-how far it is away from other elements
+
+General Technique
+-create element with html
+-style with css one by one
+
+
+css display property
+-block element takes up the entire line
+    paragraph by default block element
+- inline-block element takes up as much space as needed ex immage and input tag
+-inline does not take up any extra space, but can be moved horizontally.
+  
+div stands for division, it is just a box
+div can contain other elements, it is block element by default can be changed to inline
+
+
+Nested Layouts Technique => layouts inside layouts
+-vertical layout (items on top of each other =)
+-horizontal layout (items parallel to each other |||)
+
+CSS GRID
+-it is a layout which has rows and columns
+
+Flexbox
+-another way to create layouts, similar to css grid but its more flexible
+
+Difference
+-layout more rigid for Grid
+-in flexbox elements take their width along with them whenever they move
+-flexbox adjust itself to content size
